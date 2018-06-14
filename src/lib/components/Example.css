@@ -9,3 +9,9 @@
   font-size: 36px;
   font-weight: 300;
 }
+
+.controls {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
